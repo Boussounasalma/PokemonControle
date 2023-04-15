@@ -13,7 +13,9 @@ The project development with ViewBinding, ViewModel with LiveData, Dagger2, Retr
 <img src="https://user-images.githubusercontent.com/125896405/232254468-99e1f307-5f5d-42fb-a241-6d79fd9cbd31.png" width = "50%" height="50%" />
 </p>
 
-<iframe width="360" height="640" src="https://www.youtube.com/shorts/uXCG_v4VrQA" frameborder="0" allowfullscreen></iframe>
+##Simulation :
+
+https://www.youtube.com/shorts/uXCG_v4VrQA
 
 
 ## Tech Stack & Open-Source Libraries
