@@ -9,8 +9,11 @@ The project development with ViewBinding, ViewModel with LiveData, Dagger2, Retr
 </br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/85010162/150537968-23b0f9fb-066b-4170-b1f6-5a76e0fd6d12.png"/>
+<img src="https://user-images.githubusercontent.com/125896405/232254461-64b90b9a-fcf5-464e-be81-7daa8aba1f75.png" width = "50%" height="50%" />
+<img src="https://user-images.githubusercontent.com/125896405/232254468-99e1f307-5f5d-42fb-a241-6d79fd9cbd31.png" width = "50%" height="50%" />
 </p>
+
+<iframe width="360" height="640" src="https://www.youtube.com/shorts/uXCG_v4VrQA" frameborder="0" allowfullscreen></iframe>
 
 
 ## Tech Stack & Open-Source Libraries
