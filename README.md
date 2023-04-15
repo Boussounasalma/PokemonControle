@@ -1,16 +1,10 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/85010162/150538692-6323d2fd-437e-45b0-946f-690a8ec5e829.png"/>
-</p>
+
 
 <h1 align="center">Pokemon - PokeAPI</h1>
 
-<p align="center">
-  This project refered from: <a href="https://github.com/skydoves/Pokedex"><img alt="Profile" src="https://skydoves.github.io/badges/skydoves.svg"/></a>
-  Thanks so much to Skydoves!!!
-</p>
 
 <p align="center">  
-⚔️ ϞϞ (๑⚈ ․̫ ⚈๑)∩ The project development with ViewBinding, ViewModel with LiveData, Dagger2, Retrofit2 with RxJava3, Room Database, MaterialCardView with ShapeableOverlay Style and ProgressView based on MVVM Architecture.
+The project development with ViewBinding, ViewModel with LiveData, Dagger2, Retrofit2 with RxJava3, Room Database, MaterialCardView with ShapeableOverlay Style and ProgressView based on MVVM Architecture.
 </p>
 </br>
 
@@ -18,8 +12,6 @@
 <img src="https://user-images.githubusercontent.com/85010162/150537968-23b0f9fb-066b-4170-b1f6-5a76e0fd6d12.png"/>
 </p>
 
-## Demo on Youtube
-[![DemoVideo](https://user-images.githubusercontent.com/85010162/150553243-a18bcc55-ac49-49e2-9c17-a33ff4a9c8eb.png)](https://youtu.be/YDk_VD1i0oM "PokeAPI | Android - Java - MVP - ViewBinding - Dagger2 - Retrofit2 - RxJava3 - Room Database")
 
 ## Tech Stack & Open-Source Libraries
 - Architectures & Components
